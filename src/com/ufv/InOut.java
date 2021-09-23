@@ -30,7 +30,7 @@ public class InOut {
             {
                 persona.setEdad(Integer.parseInt(cadena));
             }
-
+            i++;
             System.out.println(cadena);
         }
         i = 0;
